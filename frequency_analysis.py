@@ -16,6 +16,3 @@ for i in range(0,26):
 
 for i in range(0,26):
     print str(anal[i]) + letters[i]
-
-
-"""this is a test"""
