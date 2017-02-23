@@ -28,3 +28,6 @@ def ancenstry(genes, person):
             result = result + ancestry(genes, parent)
         return results
     return []
+
+
+# edit by travis
