@@ -29,5 +29,4 @@ def ancenstry(genes, person):
         return results
     return []
 
-
-# edit by travis
+# here is where a change was made
